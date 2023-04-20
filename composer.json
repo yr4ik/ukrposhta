@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Ukrposhta\\": "src"
+            "Ukrposhta\\": "src/"
         }
     },
     "require": {
