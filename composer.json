@@ -1,12 +1,12 @@
 {
-    "name": "kex15i10/ukrposhta",
-    "description": "Client for ukrposhta API",
+    "name": "yr4ik/ukrposhta",
+    "description": "Client for ukrposhta API Fork kex15i10/ukrposhta",
     "type": "library",
     "keywords": ["ukrposhta", "укр почта", "укр пошта"],
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/kex15i10/ukrposhta"
+            "url": "https://github.com/yr4ik/ukrposhta"
         }
     ],
     "autoload": {
